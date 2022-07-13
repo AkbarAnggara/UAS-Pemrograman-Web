@@ -1,0 +1,262 @@
+CRITICAL - 2022-07-12 07:13:46 --> syntax error, unexpected token "/"
+in APPPATH\Views\user_view.php on line 38.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user_view', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(11): view('user_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:16:24 --> Invalid file: edit_user.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:17:03 --> Invalid file: edit_user.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:21:22 --> Invalid file: edit_user.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:21:23 --> Invalid file: edit_user.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:21:23 --> Invalid file: edit_user.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:21:24 --> Invalid file: edit_user.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:21:25 --> Invalid file: edit_user.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:21:36 --> Invalid file: edit_user.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:22:42 --> Invalid file: edit_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_view.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_view', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:22:51 --> Invalid file: edit_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_view.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_view', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:23:15 --> Invalid file: edit_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_view.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_view', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:23:16 --> Invalid file: edit_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_view.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_view', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:25:08 --> Invalid file: edit_view.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_view.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('edit_view', [], true)
+ 3 APPPATH\Controllers\UserCrud.php(32): view('edit_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:25:47 --> Undefined variable $users
+in APPPATH\Views\user_view.php on line 30.
+ 1 APPPATH\Views\user_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'APPPATH\\Views\\user_view.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user_view', [], true)
+ 5 APPPATH\Controllers\UserCrud.php(32): view('user_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:25:49 --> Undefined variable $users
+in APPPATH\Views\user_view.php on line 30.
+ 1 APPPATH\Views\user_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'APPPATH\\Views\\user_view.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user_view', [], true)
+ 5 APPPATH\Controllers\UserCrud.php(32): view('user_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 07:25:50 --> Undefined variable $users
+in APPPATH\Views\user_view.php on line 30.
+ 1 APPPATH\Views\user_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'APPPATH\\Views\\user_view.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user_view', [], true)
+ 5 APPPATH\Controllers\UserCrud.php(32): view('user_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->singleUser('1')
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 19:42:43 --> Cannot redeclare App\Controllers\UserCrud::index()
+in APPPATH\Controllers\UserCrud.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-07-12 21:13:26 --> Undefined variable $users
+in APPPATH\Views\user_view1.php on line 33.
+ 1 APPPATH\Views\user_view1.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'APPPATH\\Views\\user_view1.php', 33)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user_view1.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user_view1', [], true)
+ 5 APPPATH\Controllers\UserCrud.php(73): view('user_view1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->list1()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 21:14:16 --> Undefined variable $users
+in APPPATH\Views\user_view1.php on line 34.
+ 1 APPPATH\Views\user_view1.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'APPPATH\\Views\\user_view1.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user_view1.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user_view1', [], true)
+ 5 APPPATH\Controllers\UserCrud.php(73): view('user_view1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->list1()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 21:14:31 --> Undefined variable $user
+in APPPATH\Views\user_view1.php on line 36.
+ 1 APPPATH\Views\user_view1.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'APPPATH\\Views\\user_view1.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user_view1.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user_view1', [], true)
+ 5 APPPATH\Controllers\UserCrud.php(73): view('user_view1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->list1()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 21:15:23 --> Undefined variable $user
+in APPPATH\Views\user_view1.php on line 40.
+ 1 APPPATH\Views\user_view1.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'APPPATH\\Views\\user_view1.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user_view1.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user_view1', [], true)
+ 5 APPPATH\Controllers\UserCrud.php(73): view('user_view1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->list1()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 21:30:36 --> Call to undefined method App\Models\UserModel::update1
+in SYSTEMPATH\Model.php on line 773.
+ 1 APPPATH\Controllers\UserCrud.php(105): CodeIgniter\Model->__call('update1', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->update1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 21:32:13 --> Call to undefined method App\Models\UserModel::update1
+in SYSTEMPATH\Model.php on line 773.
+ 1 APPPATH\Controllers\UserCrud.php(105): CodeIgniter\Model->__call('update1', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->update1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 21:32:19 --> Call to undefined method App\Models\UserModel::update1
+in SYSTEMPATH\Model.php on line 773.
+ 1 APPPATH\Controllers\UserCrud.php(105): CodeIgniter\Model->__call('update1', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->update1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 21:32:34 --> Call to undefined method App\Models\UserModel::update1
+in SYSTEMPATH\Model.php on line 773.
+ 1 APPPATH\Controllers\UserCrud.php(105): CodeIgniter\Model->__call('update1', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->update1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 21:34:09 --> Call to undefined method App\Models\UserModel::update1
+in SYSTEMPATH\Model.php on line 773.
+ 1 APPPATH\Controllers\UserCrud.php(105): CodeIgniter\Model->__call('update1', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->update1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 21:34:56 --> Call to undefined method App\Models\UserModel::update1
+in SYSTEMPATH\Model.php on line 773.
+ 1 APPPATH\Controllers\UserCrud.php(105): CodeIgniter\Model->__call('update1', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->update1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 21:38:38 --> Call to undefined method App\Models\UserModel::update1
+in SYSTEMPATH\Model.php on line 773.
+ 1 APPPATH\Controllers\UserCrud.php(105): CodeIgniter\Model->__call('update1', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->update1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-12 21:38:44 --> Call to undefined method App\Models\UserModel::update1
+in SYSTEMPATH\Model.php on line 773.
+ 1 APPPATH\Controllers\UserCrud.php(105): CodeIgniter\Model->__call('update1', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\UserCrud->update1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
