@@ -4,7 +4,6 @@ Nama  : Bangkit Akbar Anggara<br>
 NIM   : 312010148<br>
 Kelas : TI.20.B.1<br>
 
-Mohon maaf pak untuk hosting belum dikarenakan berbayar, kalo untuk gratis terkadang error jadi belum dibuat hostingnya<br>
 
 <b>Tampilan Home</b><br>
 ![Screenshot_6.png](Pic/Screenshot_1.png)<br>
