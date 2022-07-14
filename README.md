@@ -4,6 +4,7 @@ Nama  : Bangkit Akbar Anggara<br>
 NIM   : 312010148<br>
 Kelas : TI.20.B.1<br>
 
+Link PDF => [Click Here](https://github.com/AkbarAnggara/UAS-Pemrograman-Web/blob/main/loket/UAS%20Pemrograman%20Web.pdf)<br>
 
 <b>Tampilan Home</b><br>
 ![Screenshot_1.png](Pic/Screenshot_1.png)<br>
