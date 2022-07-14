@@ -6,13 +6,13 @@ Kelas : TI.20.B.1<br>
 
 
 <b>Tampilan Home</b><br>
-![Screenshot_6.png](Pic/Screenshot_1.png)<br>
+![Screenshot_1.png](Pic/Screenshot_1.png)<br>
 
 <b>Daftar Tiket Kereta</b><br>
-![Screenshot_6.png](Pic/Screenshot_2.png)<br>
+![Screenshot_2.png](Pic/Screenshot_2.png)<br>
 
 <b>Daftar Tiket Bus</b><br>
-![Screenshot_6.png](Pic/Screenshot_3.png)<br>
+![Screenshot_3.png](Pic/Screenshot_3.png)<br>
 
 <b>Ubah Data</b><br>
 ![Screenshot_4.png](Pic/Screenshot_4.png)<br>
